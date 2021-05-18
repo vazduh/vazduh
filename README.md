@@ -2,7 +2,7 @@
 - 👀 I’m interested in creative coding and digital humanities
 - 🌱 I’m currently learning creative coding
 - 💞️ I’m looking to collaborate on something fun
-- 📫 How to reach me ...
+- 📫 How to reach me stanciu013@gmail.com
 
 <!---
 vazduh/vazduh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
